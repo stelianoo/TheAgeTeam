@@ -1,0 +1,1 @@
+Lucrul din editorul de text.
